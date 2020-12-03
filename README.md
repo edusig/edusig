@@ -2,6 +2,8 @@
 
 My name is Eduardo and I am a frontend developer from Brazil. I'm currently working at BLB Ventures a Venture Builder located in Ribeirao Preto, SP. I mostly code Typescript
 
+![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=edusig&badges=2&show-avatar=false&branding=false&style=--header-bg-color:%23444)
+
 ### 📫 How to reach me
 
 [![](https://img.shields.io/badge/-educiciliato-444?style=for-the-badge&logo=twitter)](https://twitter.com/educiciliato)
@@ -17,6 +19,10 @@ Technologies I'm using regularly right now
 ![](https://img.shields.io/badge/-styled%20components-444?style=for-the-badge&logo=styled-components)
 ![](https://img.shields.io/badge/-python-444?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/-graphql-444?style=for-the-badge&logo=graphql)
+
+### 🖥 Some Projects
+
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=edusig&dates=false&description=false&branding=false&links=false)](https://sheet.best)
 
 ### 💬 Some hobbies
 
