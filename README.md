@@ -2,8 +2,6 @@
 
 My name is Eduardo and I am a frontend developer from Brazil. I'm currently working at BLB Ventures a Venture Builder located in Ribeirao Preto, SP. I mostly code Typescript
 
-![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=edusig&badges=2&show-avatar=false&branding=false&style=--header-bg-color:%23444)
-
 ### 📫 How to reach me
 
 [![](https://img.shields.io/badge/-educiciliato-444?style=for-the-badge&logo=twitter)](https://twitter.com/educiciliato)
@@ -13,26 +11,24 @@ My name is Eduardo and I am a frontend developer from Brazil. I'm currently work
 
 Technologies I'm using regularly right now
 
-![](https://img.shields.io/badge/-javascript-444?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/-typescript-444?style=for-the-badge&logo=typescript)
 ![](https://img.shields.io/badge/-react-444?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/-next.js-444?style=for-the-badge&logo=next-dot-js)
-![](https://img.shields.io/badge/-styled%20components-444?style=for-the-badge&logo=styled-components)
+![](https://img.shields.io/badge/-tailwindcss-444?style=for-the-badge&logo=tailwindcss)
 ![](https://img.shields.io/badge/-python-444?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/-graphql-444?style=for-the-badge&logo=graphql)
 
-### 🖥 Some Projects
+Others I've used or am playing with
 
-[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=edusig&dates=false&description=false&branding=false&links=false)](https://sheet.best)
+![](https://img.shields.io/badge/-astro-444?style=for-the-badge&logo=astro)
+![](https://img.shields.io/badge/-svelte-444?style=for-the-badge&logo=svelte)
+![](https://img.shields.io/badge/-rust-444?style=for-the-badge&logo=rust)
+![](https://img.shields.io/badge/-deno-444?style=for-the-badge&logo=deno)
 
 ### 💬 Some hobbies
 
 - 🚲 Cycling
 - 🏊‍ Swimming
-
-### 🤔 Somethings I would like to learn
-
-- Svelte
-- Another language (maybe Italian or Japanese)
 
 ### My Stats
 
